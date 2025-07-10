@@ -37,6 +37,6 @@ This is where I learned that **raw data is just the beginning**, and how powerfu
 
 
 ### 💾 5. Export the Cleaned Dataset
-- Saved the final cleaned data into a new CSV file you can now use for modeling, analysis, or dashboard building.
+- Saved the final cleaned data into a new CSV file and now use for modeling, analysis, or dashboard building.
 
 
