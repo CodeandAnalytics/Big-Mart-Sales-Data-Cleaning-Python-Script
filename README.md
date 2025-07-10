@@ -5,7 +5,7 @@ Hello there!!
 Welcome to my data-cleaning script – a small but powerful part of a bigger story.
 This project began with one simple question:
 
-What’s hiding inside the messy sales data of a retail giant like Big Mart?"
+    What’s hiding inside the messy sales data of a retail giant like Big Mart?"
 
 As I opened the Excel file, I realized – like every real-world dataset – it had its share of problems:
 ❌ Missing values
