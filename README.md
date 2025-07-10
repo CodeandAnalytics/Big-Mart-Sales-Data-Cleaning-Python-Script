@@ -18,5 +18,5 @@ This is where I learned that **raw data is just the beginning**, and how powerfu
 
 ### 📥 1. Load the Data
 
-- ** I loaded the Excel sheet using pandas, setting the stage for transformation.
+- I loaded the Excel sheet using pandas, setting the stage for transformation.
 
