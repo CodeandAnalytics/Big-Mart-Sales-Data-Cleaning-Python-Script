@@ -20,7 +20,7 @@ This is where I learned that **raw data is just the beginning**, and how powerfu
 
 - I loaded the Excel sheet using pandas, setting the stage for transformation.
 
-🧹 2. Handle Missing Values
+### 🧹 2. Handle Missing Values
 - Filled missing Item_Weight values with the median
 - Filled unknown Outlet_Size entries with "NA"
 
