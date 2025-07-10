@@ -5,7 +5,7 @@ Hello there!!
 Welcome to my data-cleaning script – a small but powerful part of a bigger story.
 This project began with one simple question:
 
-    What’s hiding inside the messy sales data of a retail giant like Big Mart?"
+ What’s hiding inside the messy sales data of a retail giant like Big Mart?"
 
 As I opened the Excel file, I realized – like every real-world dataset – it had its share of problems:
 ❌ Missing values
@@ -14,7 +14,9 @@ As I opened the Excel file, I realized – like every real-world dataset – it 
 ❌ And a few quirks that only a data lover could spot
 
 📂 What's in This Project?
+
 File: project_1.py
+
 Purpose: Clean and prep the raw Big_mart.xlsx dataset into a well-structured .csv file you can actually work with.
 
 What Does the Script Do?
