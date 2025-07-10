@@ -19,22 +19,22 @@ This is where I learned that **raw data is just the beginning**, and how powerfu
 ### 📥 1. Reading the Raw Data
 
 - I loaded the Excel sheet using pandas, setting the stage for transformation.
----
+  
 
 ### 🧹 2. Handle Missing Values
 - Filled missing Item_Weight values with the median
 - Filled unknown Outlet_Size entries with "NA"
----
+  
 
 ### 🔁 3. Fix Invalid and Inconsistent Values
 - Replaced 0s in Item_Visibility with its median
 - Categorized Item_Visibility into "Low" and "High"
 - Standardized values in Item_Fat_Content like "LF" → "Low Fat", "reg" → "Regular"
----
+  
 
 ### 🎯 4. Round Off Numeric Columns
 - Rounded values in Item_MRP, Item_Outlet_Sales, and Item_Visibility for better readability.
----
+
 
 ### 💾 5. Export the Cleaned Dataset
 - Saved the final cleaned data into a new CSV file you can now use for modeling, analysis, or dashboard building.
