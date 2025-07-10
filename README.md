@@ -1,6 +1,7 @@
 # Big-Mart-Sales-Data-Cleaning-Python-Script
 
 Hello there!!
+
 Welcome to my data-cleaning script – a small but powerful part of a bigger story.
 This project began with one simple question:
 
