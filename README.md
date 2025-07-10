@@ -16,7 +16,7 @@ This is where I learned that **raw data is just the beginning**, and how powerfu
 
 ## 🧠 The Data Cleaning Journey (Step by Step)
 
-### 📥 1. Load the Data
+### 📥 1. Reading the Raw Data
 
 - I loaded the Excel sheet using pandas, setting the stage for transformation.
 
