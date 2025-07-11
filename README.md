@@ -14,7 +14,7 @@ This is where I learned that **raw data is just the beginning**, and how powerfu
 
 ---
 
-## 🧠 The Data Cleaning Journey (Step by Step)
+## 🧠 The Data Cleaning Process (Step by Step)
 
 ### 📥 1. Reading the Raw Data
 
