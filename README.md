@@ -33,10 +33,10 @@ This is where I learned that **raw data is just the beginning**, and how powerfu
   
 
 ### 🎯 4. Round Off Numeric Columns
-- Rounded values in Item_MRP, Item_Outlet_Sales, and Item_Visibility for better readability.
+- Rounded values in Item_MRP, Item_Outlet_Sales, and Item_Visibility for cleaner representation and better readability.
 
 
 ### 💾 5. Export the Cleaned Dataset
-- Saved the final cleaned data into a new CSV file and now use for modeling, analysis, or dashboard building.
+- Saved the final cleaned data into a new CSV file for further use like modeling, analysis, or dashboard building.
 
 
