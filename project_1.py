@@ -9,8 +9,6 @@ df.info()
 
 print(df.isnull().sum())
 
-df['Item_Identifier'].unique().sum()
-print(df['Item_Identifier'])
 
 
 duplicate_count = df.duplicated(subset='Item_Identifier').sum()
